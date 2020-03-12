@@ -14,5 +14,12 @@
     "@types/jest": "^24.0.23",
     "eslint": "^6.7.0",
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2",
+    "uuid": "^7.0.2"
   }
 }
